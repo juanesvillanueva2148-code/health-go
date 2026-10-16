@@ -47,7 +47,7 @@ Por consola:
 
 ```bash
 mkdir out
-javac -d out /healthgo/*.java
+javac -d out healthgo/*.java
 java -cp out healthgo.Main
 ```
 
